@@ -1,0 +1,21 @@
+.App{
+  /* border: 2px solid red; */
+  padding: 0 10px;
+}
+.section{
+  padding: 10px;
+}
+
+.page-title{
+  text-align: center;
+}
+
+.search-container{
+  display: flex;
+  justify-content: center;
+}
+
+.table-container{
+  display: flex;
+  justify-content: center;
+}
